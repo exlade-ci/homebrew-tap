@@ -2,7 +2,7 @@ cask "exlade-ramdisk" do
   version "1.2.1"
   sha256 "c425bdf46b00f00d917fcb7dac42799d1703c31abb689839916f82163364fca3"
 
-  url "https://www.exlade.com/downloads/Exlade-RamDisk.dmg"
+  url "https://www.exlade.com/downloads/Exlade-RamDisk-#{version}.dmg"
   name "Exlade RamDisk"
   desc "RAM disks that keep their files between launches, with a command-line tool"
   homepage "https://www.exlade.com/"
